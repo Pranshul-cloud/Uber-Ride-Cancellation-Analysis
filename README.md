@@ -1,5 +1,6 @@
 # 🚖 Uber Ride Cancellation Analysis Dashboard  
 
+![Uber Dashboard](./Screenshot_2025-09-07.png)
 
 
 ## 📌 Overview  
