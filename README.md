@@ -1,4 +1,5 @@
 # 🚖 Uber Ride Cancellation Analysis Dashboard  
+---
 
 ![Uber Dashboard](https://github.com/Pranshul-cloud/Uber-Ride-Cancellation-Analysis/blob/main/02-Dashboard.png)
 
