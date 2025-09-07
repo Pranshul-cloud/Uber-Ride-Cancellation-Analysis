@@ -1,6 +1,6 @@
 # 🚖 Uber Ride Cancellation Analysis Dashboard  
 
-![Uber Dashboard](./Screenshot_2025-09-07.png)
+![Uber Dashboard](https://github.com/Pranshul-cloud/Uber-Ride-Cancellation-Analysis/blob/main/02-Dashboard.png)
 
 
 ## 📌 Overview  
