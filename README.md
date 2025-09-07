@@ -1,6 +1,6 @@
 # 🚖 Uber Ride Cancellation Analysis Dashboard  
 
-![Uber Dashboard](./Screenshot_2025-09-07.png)
+
 
 ## 📌 Overview  
 This project analyzes **Uber ride cancellations** using an **interactive Power BI dashboard**.  
@@ -72,7 +72,4 @@ It uncovers **trends, patterns, and insights** to help optimize **driver allocat
 
 ---
 
-## 🚀 How to Use  
-```bash
-# Clone the repository
-git clone https://github.com/<your-username>/Uber-Ride-Cancellation-Analysis.git
+
